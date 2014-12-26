@@ -9,3 +9,8 @@ Distributing the collected works of an awesome Polish painter as an unseeded tor
 Distributed version control offers a level of accountability, in this case vaguely preserving the origin of the files, while allowing me / others to improve the metadata and organization of the collected works.
 
 If the original sources of any of these image files are known, please contact me and I'll add the information.
+
+
+-----
+
+![Example](Pinturas.%201960s%20-%202000s/10.jpg)
