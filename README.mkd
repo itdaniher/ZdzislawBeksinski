@@ -1,0 +1,11 @@
+To the best of my knowledge, these works are made available under the Creative Commons Attribution-Share Alike 3.0 Unported license.	
+
+Attribution: Zdzisław Beksiński (copyrights inherited by Muzeum Historyczne w Sanoku) after his death in 2005.
+
+-----
+
+Distributing the collected works of an awesome Polish painter as an unseeded torrent of a single .rar file seemed inappropriate.
+
+Distributed version control offers a level of accountability, in this case vaguely preserving the origin of the files, while allowing me / others to improve the metadata and organization of the collected works.
+
+If the original sources of any of these image files are known, please contact me and I'll add the information.
